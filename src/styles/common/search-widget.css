@@ -1,0 +1,24 @@
+.search-widget-wrapper {
+  text-align: center;
+  margin: 25px 0;
+}
+
+.search-widget-line {
+  border-bottom: solid #eaeaea 1px;
+}
+.search-widget-input {
+  margin-bottom: 35px;
+  width: 300px;
+  font-size: 15px;
+  padding: 8px 18px;
+  border-style: none;
+  border-radius: 20px;
+  outline: none;
+  box-shadow: 0 0 20px 0 #dedede;
+}
+.search-widget-input::placeholder {
+  color: #b0b0b0;
+}
+.search-widget-input:focus {
+  box-shadow: 0 0 5px 0 #dedede;
+}

@@ -1,0 +1,23 @@
+:root {
+  /*Header*/
+  --header-bg: linear-gradient(to left, #36d1dc, #5b86e5);
+  --header-title-color: white;
+  --header-height: 65px;
+  --header-page-title-color: #373737;
+
+  /*Footer*/
+  --footer-bg: #eceff3;
+  --footer-height: 300px;
+  --footer-text-light-color: #6f6f70;
+  --footer-text-dark-color: #373737;
+
+  /*Container*/
+  --container-max-width: 1024px;
+
+  /*Card*/
+  --card-text-color: #6f6f70;
+  --card-width-small: 124px;
+  --card-width-large: 200px;
+  --card-height-small: 185px;
+  --card-height-large: 200px;
+}

@@ -1,0 +1,7 @@
+.page-title {
+  font-size: 20px;
+  color: var(--header-page-title-color);
+  font-weight: 600;
+  margin-top: -15px;
+  margin-bottom: 40px;
+}

@@ -1,0 +1,19 @@
+@import 'variables.css';
+@import 'layout/header.css';
+@import 'layout/footer.css';
+@import 'layout/content.css';
+@import 'auth/login-widget.css';
+@import 'common/page-title.css';
+@import 'common/card.css';
+@import 'common/search-widget.css';
+@import 'page/home-page.css';
+@import '~antd/dist/antd.css';
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

@@ -1,0 +1,40 @@
+footer {
+  background: var(--footer-bg);
+  height: var(--footer-height);
+  padding-top: 35px;
+}
+
+.footer-link-separator {
+  border-left-color: var(--footer-text-light-color) !important;
+  top: 5px !important;
+  margin: 0 9px !important;
+}
+
+.footer-text-link {
+  color: var(--footer-text-dark-color);
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.footer-text-link:hover {
+  color: var(--footer-text-light-color);
+}
+.footer-description-text {
+  line-height: 45px;
+  color: var(--footer-text-light-color);
+  font-size: 13px;
+}
+.footer-social-store-wrapper {
+  margin-top: 30px;
+}
+
+.footer-social-button {
+  color: var(--footer-text-light-color) !important;
+  font-size: 30px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.footer-social-button:hover {
+  color: var(--footer-text-dark-color) !important;
+}

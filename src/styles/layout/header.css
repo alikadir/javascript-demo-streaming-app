@@ -1,0 +1,21 @@
+header {
+  background: var(--header-bg);
+  line-height: var(--header-height);
+  box-shadow: 0px 0px 15px 5px #dedede;
+}
+
+.header-title {
+  color: var(--header-title-color);
+  font-size: 30px;
+  font-weight: bold;
+}
+.header-title:hover {
+  color: var(--header-title-color);
+}
+
+.header-trial-button:focus,
+.header-trial-button:hover {
+  color: white !important;
+  border-color: white !important;
+  border-style: dashed;
+}
