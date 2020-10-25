@@ -1,11 +1,9 @@
 
 # DEMO Streaming App
 
-
 **LIVE** - https://alikadir-demo.vercel.app
 
-**Github Repository** - https://github.com/alikadir/javascript-demo-streaming-app
-
+**React Coding Challenge** - https://github.com/StreamCo/react-coding-challenge
 
 ## Quick Start 
 
