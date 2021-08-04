@@ -5,6 +5,12 @@
 
 **React Coding Challenge** - https://github.com/StreamCo/react-coding-challenge
 
+## Expected Web App From Me
+
+![Old Home Page](https://github.com/alikadir/javascript-demo-streaming-app/blob/main/screenshots/old-home-page.jpg?raw=true)
+
+![Old Detail Page](https://github.com/alikadir/javascript-demo-streaming-app/blob/main/screenshots/old-detail-page.jpg?raw=true)
+
 ## Quick Start 
 
 ```shell
@@ -21,7 +27,7 @@ I've designed this project at first on [Figma](https://www.figma.com).
 I've decided that which components will be when I designed on Figma,
 _That was important._
 
-![Project Design ScreenShout on Figma](http://alikadir-demo-screens.surge.sh/figma.jpg)
+![Project Design ScreenShout on Figma](https://github.com/alikadir/javascript-demo-streaming-app/blob/main/screenshots/figma.jpg?raw=true)
 
 
 And then,
@@ -79,13 +85,13 @@ $ npm test
 Finally, I've perfected the project design by writing CSS and using [Ant Design](https://ant.design)
 
 ## Home Page
-![Proje Home Page Screen Shout](http://alikadir-demo-screens.surge.sh/homepage.jpg)
+![Proje Home Page Screen Shout](https://github.com/alikadir/javascript-demo-streaming-app/blob/main/screenshots/new-home-page.jpg?raw=true)
 
 ## Detail Page
-![Proje Detail Page Screen Shout](http://alikadir-demo-screens.surge.sh/detailpage.jpg)
+![Proje Detail Page Screen Shout](https://github.com/alikadir/javascript-demo-streaming-app/blob/main/screenshots/new-detail-page.jpg?raw=true)
 
 ## 404 Page
-![Proje 404 Page Screen Shout](http://alikadir-demo-screens.surge.sh/404page.jpg)
+![Proje 404 Page Screen Shout](https://github.com/alikadir/javascript-demo-streaming-app/blob/main/screenshots/new-404-page.jpg?raw=true)
 
 
 
