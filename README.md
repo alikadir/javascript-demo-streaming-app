@@ -1,5 +1,5 @@
 
-# DEMO Streaming App 
+# React Coding Challenge of [Stan.](https://www.stan.com.au)
 
 **LIVE** - https://alikadir-demo.vercel.app
 
